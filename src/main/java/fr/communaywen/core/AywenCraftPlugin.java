@@ -159,6 +159,7 @@ public final class AywenCraftPlugin extends JavaPlugin {
             return;
         }
 
+        // test pour le tuto
         MenuLib.init(this);
         managers.initConfig(this);
         managers.init(this);
